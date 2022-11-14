@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scenes>
+	<Scene>
+		<SerialNumber>SNE000</SerialNumber>
+		<Description>준비 장면</Description>
+		<Caption>CAP000</Caption>
+		<HasCause>false</HasCause>
+		<Displayed>false</Displayed>
+	</Scene>
+	<Scene>
+		<SerialNumber>SNE001</SerialNumber>
+		<Description>장면 1</Description>
+		<Caption>CAP010</Caption>
+		<HasCause>false</HasCause>
+		<Displayed>false</Displayed>
+	</Scene>
+	<Scene>
+		<SerialNumber>SNE002</SerialNumber>
+		<Description>장면 2</Description>
+		<Caption>CAP016</Caption>
+		<HasCause>false</HasCause>
+		<Displayed>false</Displayed>
+	</Scene>
+	<Scene>
+		<SerialNumber>SNE003</SerialNumber>
+		<Description>장면 3</Description>
+		<Caption>CAP022</Caption>
+		<HasCause>false</HasCause>
+		<Displayed>false</Displayed>
+	</Scene>
+	<Scene>
+		<SerialNumber>SNE004</SerialNumber>
+		<Description>장면 4</Description>
+		<Caption>CAP028</Caption>
+		<HasCause>false</HasCause>
+		<Displayed>false</Displayed>
+	</Scene>
+	<Scene>
+		<SerialNumber>SNE005</SerialNumber>
+		<Description>장면 5</Description>
+		<Caption>CAP034</Caption>
+		<HasCause>false</HasCause>
+		<Displayed>false</Displayed>
+	</Scene>
+	<Scene>
+		<SerialNumber>SNE006</SerialNumber>
+		<Description>장면 6</Description>
+		<Caption>CAP040</Caption>
+		<HasCause>false</HasCause>
+		<Displayed>false</Displayed>
+	</Scene>
+</Scenes>

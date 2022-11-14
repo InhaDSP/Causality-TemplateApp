@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Medias>
+    <Media>
+        <SerialNumber>MED000</SerialNumber>
+        <TargetCaption>CAP000</TargetCaption>
+        <MediaType>image</MediaType>
+        <FileName>avatar_juran.png</FileName>
+    </Media>
+</Medias>

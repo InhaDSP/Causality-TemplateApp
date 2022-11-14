@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Actions>
+	<Action>
+	    <SerialNumber>ACT000</SerialNumber>
+	    <Description>네</Description>
+	    <DefaultValue>평소에 여러 가지로 걱정을 많이 하고 있다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT001</SerialNumber>
+	    <Description>아니요</Description>
+	    <DefaultValue>평소에 딱히 걱정하는 것이 없다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT002</SerialNumber>
+	    <Description>많이 걱정함</Description>
+	    <DefaultValue>많이 걱정한다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT003</SerialNumber>
+	    <Description>적당히 걱정함</Description>
+	    <DefaultValue>적당히 걱정한다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT004</SerialNumber>
+	    <Description>약간 걱정함</Description>
+	    <DefaultValue>약간 걱정한다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT005</SerialNumber>
+	    <Description>네</Description>
+	    <DefaultValue>걱정이 들 때 멈추거나 조절해보려 하였다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT006</SerialNumber>
+	    <Description>아니요</Description>
+	    <DefaultValue>걱정이 들 때 멈추거나 조절해보려 하지 않았다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT007</SerialNumber>
+	    <Description>항상 노력함</Description>
+	    <DefaultValue>걱정하는 것을 조절하려고 항상 노력함</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT008</SerialNumber>
+	    <Description>적당히 노력함</Description>
+	    <DefaultValue>걱정하는 것을 조절하려고 적당히 노력함</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT009</SerialNumber>
+	    <Description>가끔 노력함</Description>
+	    <DefaultValue>걱정하는 것을 조절하려고 가끔 노력함</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT010</SerialNumber>
+	    <Description>네</Description>
+	    <DefaultValue>최근에 불안감, 초조함을 느꼈다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT011</SerialNumber>
+	    <Description>아니요</Description>
+	    <DefaultValue>최근에 불안감, 초조함을 느끼지 않았다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT012</SerialNumber>
+	    <Description>매일, 항상</Description>
+	    <DefaultValue>항상 불안감을 느낌</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT013</SerialNumber>
+	    <Description>꽤 자주</Description>
+	    <DefaultValue>꽤 자주 불안감을 느낌</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT014</SerialNumber>
+	    <Description>가끔</Description>
+	    <DefaultValue>가끔 불안감을 느낌</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT015</SerialNumber>
+	    <Description>네</Description>
+	    <DefaultValue>평소에 편하게 있기 힘들다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT016</SerialNumber>
+	    <Description>아니요</Description>
+	    <DefaultValue>평소에 편하게 있을 수 있다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT017</SerialNumber>
+	    <Description>많이</Description>
+	    <DefaultValue>평소에 편하게 있기 힘든 상황이 많이 생긴다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT018</SerialNumber>
+	    <Description>보통</Description>
+	    <DefaultValue>평소에 편하게 있기 힘든 상황이 어느 정도 생긴다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT019</SerialNumber>
+	    <Description>가끔</Description>
+	    <DefaultValue>평소에 편하게 있기 힘든 상황이 가끔 생긴다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT020</SerialNumber>
+	    <Description>네</Description>
+	    <DefaultValue>일상을 보내다가 안절부절 못해서 가만히 있기 힘들 때가 있다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT021</SerialNumber>
+	    <Description>아니요</Description>
+	    <DefaultValue>일상을 보내다가 안절부절 못해서 가만히 있기 힘들 때가 없다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT022</SerialNumber>
+	    <Description>많이</Description>
+	    <DefaultValue>일상을 보내다가 안절부절 못해서 가만히 있기 힘들 때가 많이 있다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT023</SerialNumber>
+	    <Description>보통</Description>
+	    <DefaultValue>일상을 보내다가 안절부절 못해서 가만히 있기 힘들 때가 어느 정도 있다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT024</SerialNumber>
+	    <Description>가끔</Description>
+	    <DefaultValue>일상을 보내다가 안절부절 못해서 가만히 있기 힘들 때가 가끔 있다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT025</SerialNumber>
+	    <Description>네</Description>
+	    <DefaultValue>쉽게 짜증이 나는 편이다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT026</SerialNumber>
+	    <Description>아니요</Description>
+	    <DefaultValue>쉽게 짜증이 나는 편은 아니다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT027</SerialNumber>
+	    <Description>8 ~ 10</Description>
+	    <DefaultValue>8 ~ 10 정도로, 쉽게 짜증이 난다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT028</SerialNumber>
+	    <Description>4 ~ 7</Description>
+	    <DefaultValue>4 ~ 7 정도로, 종종 짜증이 난다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT029</SerialNumber>
+	    <Description>1 ~ 3</Description>
+	    <DefaultValue>1 ~ 3 정도로, 짜증이 쉽게 나지 않는다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT030</SerialNumber>
+	    <Description>네</Description>
+	    <DefaultValue>일상 중에 문득 끔찍한 일이 생길 것처럼 두려움을 느끼기도 한다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT031</SerialNumber>
+	    <Description>아니요</Description>
+	    <DefaultValue>일상 중에 문득 끔찍한 일이 생길 것처럼 두려움을 느끼지는 않는다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT032</SerialNumber>
+	    <Description>매일, 항상</Description>
+	    <DefaultValue>일상 중에 문득 끔찍한 일이 생길 것 처럼 두려움을 느끼는 일을 항상 겪음</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT033</SerialNumber>
+	    <Description>꽤 자주</Description>
+	    <DefaultValue>일상 중에 문득 끔찍한 일이 생길 것 처럼 두려움을 느끼는 일을 꽤 자주 겪음</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT034</SerialNumber>
+	    <Description>가끔</Description>
+	    <DefaultValue>일상 중에 문득 끔찍한 일이 생길 것 처럼 두려움을 느끼는 일을 가끔 겪음</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+</Actions>

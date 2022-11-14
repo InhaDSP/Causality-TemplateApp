@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomActions>
+	<CustomAction>
+		<SerialNumber>CUS000</SerialNumber>
+		<Description>"단위를 착각해서 잘못했을때" 영상을 보여주고 어떤 상황인지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS001</SerialNumber>
+		<Description>내가 실수한 사람이라면 어떻게 행동할 것 같을지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS002</SerialNumber>
+		<Description>그렇게 생각한 이유는 무엇인지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS003</SerialNumber>
+		<Description>"지각했을 때" 영상을 보고 어떤 상황인지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS004</SerialNumber>
+		<Description>이럴 때, 나는 어떻게 행동하고 뭐라고 변명하면 좋을지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS005</SerialNumber>
+		<Description>그렇게 생각한 이유는 무엇인지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS006</SerialNumber>
+		<Description>"남이 혼나고 있을때" 영상을 보고 어떤 상황인지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS007</SerialNumber>
+		<Description>이렇게 남이 혼나고 있는 상황이라면, 나는 어떻게 행동하는 것이 좋을지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS008</SerialNumber>
+		<Description>그렇게 생각한 이유는 무엇인지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS009</SerialNumber>
+		<Description>"분위기가 좋지 않을 때" 영상을 보고 어떤 분위기인 것 같은지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS010</SerialNumber>
+		<Description>이런 상황에서 나는 어떻게 행동하면 좋을지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS011</SerialNumber>
+		<Description>그렇게 생각한 이유는 무엇인지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS012</SerialNumber>
+		<Description>"회의시간에 하품하기" 영상을 본 후 누가 어떤 실수를 한 것 같은지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS013</SerialNumber>
+		<Description>실수한 사람이 나라면, 어떻게 행동하면 좋을지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS014</SerialNumber>
+		<Description>그렇게 생각한 이유는 무엇인지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS015</SerialNumber>
+		<Description>하품하는 것과 같이 하면 안되는 행동들은 또 뭐가 있을지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS016</SerialNumber>
+		<Description>내가 실수한 상황일 때 나는 어떻게 하면 좋을지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS017</SerialNumber>
+		<Description>남이 실수한 상황이거나 분위기가 좋지 않을 때 어떻게 하면 좋을지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS018</SerialNumber>
+		<Description>이번 주차 활동을 통해서 내가 배운 점은 무엇인지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS019</SerialNumber>
+		<Description>오늘의 활동은 어땠는지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+</CustomActions>

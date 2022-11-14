@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Options>
+	<Option>
+	    <SerialNumber>OPT000</SerialNumber>
+	    <Description>주변이 조용한지 질문함</Description>
+	    <Actions>
+	        <Action>ACT000</Action> <!-- 조용하다 -->
+	        <Action>ACT001</Action> <!-- 조용하지 않다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT001</SerialNumber>
+	    <Description>주변에 다른 사람이 없는지 질문함</Description>
+	    <Actions>
+	        <Action>ACT002</Action> <!-- 없다 -->
+			<Action>ACT003</Action> <!-- 있다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT002</SerialNumber>
+	    <Description>앞으로 30분간 급한 일이 없는지 질문함</Description>
+	    <Actions>
+	        <Action>ACT004</Action> <!-- 없다 -->
+			<Action>ACT005</Action> <!-- 있다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT003</SerialNumber>
+		<Description>폰 배터리가 50% 이상인지 질문함</Description>
+		<Actions>
+			<Action>ACT006</Action> <!-- 이상이다 -->
+			<Action>ACT007</Action> <!-- 이하다 -->
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT004</SerialNumber>
+		<Description>"하기 싫어도 해야할 때" 영상을 보여주고 어떤 상황인 것 같은지 질문함</Description>
+		<Actions>
+			<Action>CUS000</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT005</SerialNumber>
+		<Description>이럴 때 내가 일을 배우고 있는 상황이라면 어떻게 말을 할 것 같은지 질문함</Description>
+		<Actions>
+			<Action>CUS001</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT006</SerialNumber>
+		<Description>그렇게 생각한 이유는 무엇인지 질문함</Description>
+		<Actions>
+			<Action>CUS002</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT007</SerialNumber>
+		<Description>"나의 뒷담화를 들었을 때" 영상을 보고 주인공은 어떤 상황에 있는지 질문함</Description>
+		<Actions>
+			<Action>CUS003</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT008</SerialNumber>
+		<Description>이럴 때 나는 어떻게 행동할 것 같은지 질문함</Description>
+		<Actions>
+			<Action>CUS004</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT009</SerialNumber>
+		<Description>그렇게 생각한 이유는 무엇인지 질문함</Description>
+		<Actions>
+			<Action>CUS005</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT010</SerialNumber>
+		<Description>"회사에서 왕따" 영상을 보고 어떤 상황인 것 같은지 질문함</Description>
+		<Actions>
+			<Action>CUS006</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT011</SerialNumber>
+		<Description>영상에서 여자주인공과 같이 회식자리에 오라고 하는데 나라면 어떻게 할 것 같은지 질문함</Description>
+		<Actions>
+			<Action>CUS007</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT012</SerialNumber>
+		<Description>그렇게 생각한 이유는 무엇인지 질문함</Description>
+		<Actions>
+			<Action>CUS008</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT013</SerialNumber>
+		<Description>내가 불리하거나 억울한 상황일 때 누구에게 도움을 요청하면 좋을지 질문함</Description>
+		<Actions>
+			<Action>CUS009</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT014</SerialNumber>
+		<Description>그럼 그 사람에게 어떻게 말하면 좋을지 질문함</Description>
+		<Actions>
+			<Action>CUS010</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT015</SerialNumber>
+		<Description>회의하는 상황처럼 공식적인 자리라면 어떤 자세로 있는 것이 좋을지 질문함</Description>
+		<Actions>
+			<Action>CUS011</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT016</SerialNumber>
+		<Description>이번 주차 활동을 통해서 내가 배운 점은 무엇인지 질문함</Description>
+		<Actions>
+			<Action>CUS012</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT017</SerialNumber>
+		<Description>오늘 활동에 대한 피드백을 질문함</Description>
+		<Actions>
+			<Action>CUS013</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+</Options>

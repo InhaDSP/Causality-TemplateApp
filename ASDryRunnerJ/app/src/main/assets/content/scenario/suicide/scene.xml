@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scenes>
+	<Scene>
+	  <SerialNumber>SNE000</SerialNumber>
+	  <Description>자살 관련 면담</Description>
+	  <Caption>CAP000</Caption>
+	  <HasCause>false</HasCause>
+	  <Displayed>false</Displayed>
+	</Scene>
+</Scenes>

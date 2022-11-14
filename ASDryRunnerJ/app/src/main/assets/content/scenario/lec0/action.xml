@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Actions>
+	<Action>
+	    <SerialNumber>ACT000</SerialNumber>
+	    <Description>네.</Description>
+	    <DefaultValue>주변이 조용하다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT001</SerialNumber>
+	    <Description>아직 준비가 안되었어요.</Description>
+	    <DefaultValue>주변이 조용하지 않다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+		<Action>
+	    <SerialNumber>ACT002</SerialNumber>
+	    <Description>네.</Description>
+	    <DefaultValue>주변에 다른 사람이 없다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT003</SerialNumber>
+	    <Description>다른 사람이 아직 있어요.</Description>
+	    <DefaultValue>주변에 다른 사람이 있다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT004</SerialNumber>
+	    <Description>네.</Description>
+	    <DefaultValue>앞으로 30분간 급한 일이 없다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT005</SerialNumber>
+	    <Description>급한 일이 있어요.</Description>
+	    <DefaultValue>앞으로 30분간 급한 일이 있다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+		<Action>
+	    <SerialNumber>ACT006</SerialNumber>
+	    <Description>네.</Description>
+	    <DefaultValue>휴대폰 배터리가 50% 이상이다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT007</SerialNumber>
+	    <Description>아니요.</Description>
+	    <DefaultValue>휴대폰 배터리가 50% 이하이다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+</Actions>

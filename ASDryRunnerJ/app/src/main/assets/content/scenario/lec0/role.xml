@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Roles>
+	<Role>
+	  <SerialNumber>ROL000</SerialNumber>
+	  <Name>나레이터</Name>
+	  <Position>Narrator</Position>
+	  <Description>해설 캡션을 담당</Description>
+	</Role>
+	<Role>
+	  <SerialNumber>ROL001</SerialNumber>
+	  <Name>선생님</Name>
+	  <Position>Leader</Position>
+	<Description>면담 담당 선생님</Description>
+	</Role>
+	<Role>
+	  <SerialNumber>ROL002</SerialNumber>
+	  <Name>나</Name>
+	  <Position>Leader</Position>
+	<Description>면담자</Description>
+	</Role>
+</Roles>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 아래 쪽에 있는 Next일수록 Threshold에 가까워진다 -->
+<Causes>
+	<Cause>
+	    <SerialNumber>CAU000</SerialNumber>
+	    <Description>앱을 사용하기 위한 환경이 모두 갖추어졌는가?</Description>
+	    <Perceptron>PER000</Perceptron>
+	    <Nexts>
+	        <Next>CAP008</Next> <!-- 환경 다시 갖추자는 장면 -->
+			<Next>CAP009</Next> <!-- 장면 마지막 -->
+	    </Nexts>
+	    <Thresholds>
+	        <Threshold>0.8</Threshold>
+	    </Thresholds>
+	</Cause>
+</Causes>

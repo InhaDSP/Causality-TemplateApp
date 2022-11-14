@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Options>
+	<Option>
+	    <SerialNumber>OPT000</SerialNumber>
+	    <Description>주변이 조용한지 질문함</Description>
+	    <Actions>
+	        <Action>ACT000</Action> <!-- 조용하다 -->
+	        <Action>ACT001</Action> <!-- 조용하지 않다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT001</SerialNumber>
+	    <Description>주변에 다른 사람이 없는지 질문함</Description>
+	    <Actions>
+	        <Action>ACT002</Action> <!-- 없다 -->
+			<Action>ACT003</Action> <!-- 있다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT002</SerialNumber>
+	    <Description>앞으로 30분간 급한 일이 없는지 질문함</Description>
+	    <Actions>
+	        <Action>ACT004</Action> <!-- 없다 -->
+			<Action>ACT005</Action> <!-- 있다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT003</SerialNumber>
+		<Description>폰 배터리가 50% 이상인지 질문함</Description>
+		<Actions>
+			<Action>ACT006</Action> <!-- 이상이다 -->
+			<Action>ACT007</Action> <!-- 이하다 -->
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT004</SerialNumber>
+		<Description>본인의 이름을 질문함</Description>
+		<Actions>
+			<Action>CUS000</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+</Options>

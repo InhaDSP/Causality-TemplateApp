@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Causes>
+	<Cause>
+	    <SerialNumber>CAU000</SerialNumber>
+	    <Description>잠을 잘 자고 있는가?</Description>
+	    <Perceptron>PER000</Perceptron>
+	    <Nexts>
+	        <Next>CAP002</Next> <!-- 잠이 너무 많아졌는지 질문 -->
+	        <Next>CAP003</Next> <!--  -->
+	    </Nexts>
+	    <Thresholds>
+	        <Threshold>0.5</Threshold>
+	    </Thresholds>
+	</Cause>
+	<Cause>
+	    <SerialNumber>CAU001</SerialNumber>
+	    <Description>밥을 제때 먹고 있는가?</Description>
+	    <Perceptron>PER001</Perceptron>
+	    <Nexts>
+	        <Next>CAP004</Next> <!-- 밥을 예전보다 많이/적게 먹는지 질문 -->
+	        <Next>CAP005</Next> <!--  -->
+	    </Nexts>
+	    <Thresholds>
+	        <Threshold>0.5</Threshold>
+	    </Thresholds>
+	</Cause>
+	<Cause>
+	    <SerialNumber>CAU002</SerialNumber>
+	    <Description>최근에 즐기는 취미가 있는가?</Description>
+	    <Perceptron>PER002</Perceptron>
+	    <Nexts>
+	        <Next>CAP006</Next> <!-- 어떤 취미인지 질문 -->
+	        <Next>CAP008</Next> <!-- 다음 질문으로 -->
+	    </Nexts>
+	    <Thresholds>
+	        <Threshold>0.5</Threshold>
+	    </Thresholds>
+	</Cause>
+	<Cause>
+	    <SerialNumber>CAU003</SerialNumber>
+	    <Description>평소에 같이 이야기 하는 친구가 있는가?</Description>
+	    <Perceptron>PER003</Perceptron>
+	    <Nexts>
+	        <Next>CAP009</Next> <!-- 친구와 고민도 말하는지 질문 -->
+	        <Next>CAP010</Next> <!--  -->
+	    </Nexts>
+	    <Thresholds>
+	        <Threshold>0.5</Threshold>
+	    </Thresholds>
+	</Cause>
+	<Cause>
+	    <SerialNumber>CAU004</SerialNumber>
+	    <Description>자살 계획 수립 여부</Description>
+	    <Perceptron>PER003</Perceptron>
+	    <Nexts>
+	        <Next>CAP013</Next> <!-- 그 계획을 실행하고 싶었는지 질문 -->
+	        <Next>CAP014</Next> <!-- 다음 질문(구체적 행동 수행여부) -->
+	    </Nexts>
+	    <Thresholds>
+	        <Threshold>0.5</Threshold>
+	    </Thresholds>
+	</Cause>
+</Causes>

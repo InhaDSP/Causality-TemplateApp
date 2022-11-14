@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Captions>
+	<Caption>
+	  <SerialNumber>CAP000</SerialNumber>
+	  <Dialogue>안녕 여러분! 다시 만나서 반가워요! 우리 3차시에 배웠던 내용을 생각하며 학습해볼까요?</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP001</NextCaption>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP001</SerialNumber>
+	  <Dialogue>"나라면 이런 상황에서 어떻게 할까?" 라고 생각하면서 진행하면 됩니다.</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP002</NextCaption>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP002</SerialNumber>
+	  <Dialogue>아! 여러분이 연기하는 상황도 있답니다! 여러분 연기 잘하잖아요?^^</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP003</NextCaption>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP003</SerialNumber>
+	  <Dialogue>앱을 사용하기 위한 환경인지 확인할게요. 내가 지금 다음과 같은 상황인지 확인해보세요!</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP004</NextCaption>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP004</SerialNumber>
+	  <Dialogue>주변이 조용한가요?</Dialogue>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP005</NextCaption>
+	  <Option>OPT000</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP005</SerialNumber>
+	  <Dialogue>카메라에 나의 모습만 비춰져야 합니다. 주변에 다른 사람이 없나요?</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP006</NextCaption>
+	  <Option>OPT001</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP006</SerialNumber>
+	  <Dialogue>앞으로 30분동안은 급한 일이 없나요?</Dialogue>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP007</NextCaption>
+	  <Option>OPT002</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP007</SerialNumber>
+	  <Dialogue>핸드폰 배터리는 50% 이상인가요?</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP008</NextCaption>
+	  <Option>OPT003</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP008</SerialNumber>
+	  <Dialogue>그럼 조용한 상황에서 다시 만나요!</Dialogue>
+	  <HasCause>true</HasCause>
+	  <Cause>CAU000</Cause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP003</NextCaption>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP009</SerialNumber>
+	  <Dialogue>좋아요! 제시되는 상황에 몰입해보세요 ^^</Dialogue>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>END</NextCaption>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+		<SerialNumber>CAP010</SerialNumber>
+		<Dialogue>다음 영상에서 주인공이 어떤 상황인지 살펴봅시다!</Dialogue>
+		<SpeakerName>선생님</SpeakerName>
+		<NextCaption>CAP011</NextCaption>
+		<Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+		<SerialNumber>CAP011</SerialNumber>
+		<Dialogue>(영상을 확인해주세요)</Dialogue>
+		<SpeakerName>선생님</SpeakerName>
+		<NextCaption>CAP012</NextCaption>
+		<Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+		<SerialNumber>CAP012</SerialNumber>
+		<Dialogue>지금 어떤 상황인 것 같나요?</Dialogue>
+		<SpeakerName>선생님</SpeakerName>
+		<NextCaption>CAP013</NextCaption>
+		<Option>OPT004</Option>
+		<Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+		<SerialNumber>CAP013</SerialNumber>
+		<Dialogue>도움을 누구에게, 어떻게 요청하면 좋을까요?</Dialogue>
+		<SpeakerName>선생님</SpeakerName>
+		<NextCaption>CAP014</NextCaption>
+		<Option>OPT005</Option>
+		<Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+		<SerialNumber>CAP014</SerialNumber>
+		<Dialogue>그렇게 생각한 이유는 무엇인가요?</Dialogue>
+		<SpeakerName>선생님</SpeakerName>
+		<NextCaption>END</NextCaption>
+		<Option>OPT006</Option>
+		<Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+		<SerialNumber>CAP015</SerialNumber>
+		<Dialogue>다음은 직장인들이 생각하는 오피스 빌런에 대한 이야기입니다. 어떤 빌런인지 생각해봅시다~</Dialogue>
+		<SpeakerName>선생님</SpeakerName>
+		<NextCaption>CAP016</NextCaption>
+		<Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+		<SerialNumber>CAP016</SerialNumber>
+		<Dialogue>(영상을 확인해주세요)</Dialogue>
+		<SpeakerName>선생님</SpeakerName>
+		<NextCaption>CAP017</NextCaption>
+		<Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+		<SerialNumber>CAP017</SerialNumber>
+		<Dialogue>어떤 이유로 오피스 빌런이라고 하는 걸까요?</Dialogue>
+		<SpeakerName>선생님</SpeakerName>
+		<NextCaption>CAP018</NextCaption>
+		<Option>OPT007</Option>
+		<Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+		<SerialNumber>CAP018</SerialNumber>
+		<Dialogue>내가 급하게 해야할 일이 있는데 상대방이 채팅을 읽지 않을 때 어떻게 해야 할까요?</Dialogue>
+		<SpeakerName>선생님</SpeakerName>
+		<NextCaption>CAP019</NextCaption>
+		<Option>OPT008</Option>
+		<Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+		<SerialNumber>CAP019</SerialNumber>
+		<Dialogue>그렇게 생각한 이유는 무엇인가요?</Dialogue>
+		<SpeakerName>선생님</SpeakerName>
+		<NextCaption>END</NextCaption>
+		<Option>OPT009</Option>
+		<Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+		<SerialNumber>CAP020</SerialNumber>
+		<Dialogue>다음 영상은 어떤 상황인지 살펴볼까요?</Dialogue>
+		<SpeakerName>선생님</SpeakerName>
+		<NextCaption>CAP021</NextCaption>
+		<Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+		<SerialNumber>CAP021</SerialNumber>
+		<Dialogue>(영상을 확인해주세요)</Dialogue>
+		<SpeakerName>선생님</SpeakerName>
+		<NextCaption>CAP022</NextCaption>
+		<Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+		<SerialNumber>CAP022</SerialNumber>
+		<Dialogue>지금 어떤 상황인 것 같나요?</Dialogue>
+		<SpeakerName>선생님</SpeakerName>
+		<NextCaption>CAP023</NextCaption>
+		<Option>OPT010</Option>
+		<Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+		<SerialNumber>CAP023</SerialNumber>
+		<Dialogue>내가 이런 상황이라면, 나는 어떻게 행동하고 말하면 좋을까요?</Dialogue>
+		<SpeakerName>선생님</SpeakerName>
+		<NextCaption>CAP024</NextCaption>
+		<Option>OPT011</Option>
+		<Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+		<SerialNumber>CAP024</SerialNumber>
+		<Dialogue>그렇게 생각한 이유는 무엇인가요?</Dialogue>
+		<SpeakerName>선생님</SpeakerName>
+		<NextCaption>END</NextCaption>
+		<Option>OPT012</Option>
+		<Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+		<SerialNumber>CAP025</SerialNumber>
+		<Dialogue>오늘의 수업을 정리하면서, 한 번 대답해볼게요!</Dialogue>
+		<SpeakerName>선생님</SpeakerName>
+		<NextCaption>CAP026</NextCaption>
+		<Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+		<SerialNumber>CAP026</SerialNumber>
+		<Dialogue>도움을 청해야할 때, 어떻게 말하면 좋을까요?</Dialogue>
+		<SpeakerName>선생님</SpeakerName>
+		<NextCaption>CAP027</NextCaption>
+		<Option>OPT013</Option>
+		<Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+		<SerialNumber>CAP027</SerialNumber>
+		<Dialogue>도움을 줄 때 무조건 도와주거나, 거절해야할까요?</Dialogue>
+		<SpeakerName>선생님</SpeakerName>
+		<Option>OPT014</Option>
+		<NextCaption>CAP028</NextCaption>
+		<Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+		<SerialNumber>CAP028</SerialNumber>
+		<Dialogue>글로 의사소통할 때의 에티켓은 무엇이 있을까요?</Dialogue>
+		<SpeakerName>선생님</SpeakerName>
+		<NextCaption>CAP029</NextCaption>
+		<Option>OPT015</Option>
+		<Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+		<SerialNumber>CAP029</SerialNumber>
+		<Dialogue>이번 주차 활동을 통해서 내가 배운 점은 무엇인가요?</Dialogue>
+		<SpeakerName>선생님</SpeakerName>
+		<NextCaption>CAP030</NextCaption>
+		<Option>OPT016</Option>
+		<Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+		<SerialNumber>CAP030</SerialNumber>
+		<Dialogue>오늘의 활동은 어땠나요? 어렵거나 궁금한 점은 있나요? 없으면 이야기하지 않아도 괜찮아요!</Dialogue>
+		<SpeakerName>선생님</SpeakerName>
+		<NextCaption>END</NextCaption>
+		<Option>OPT017</Option>
+		<Displayed>false</Displayed>
+	</Caption>
+</Captions>

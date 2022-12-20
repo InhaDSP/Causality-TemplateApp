@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Options>
+	<Option>
+	    <SerialNumber>OPT000</SerialNumber>
+	    <Description>주변이 조용한지 질문함</Description>
+	    <Actions>
+	        <Action>ACT000</Action> <!-- 조용하다 -->
+	        <Action>ACT001</Action> <!-- 조용하지 않다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT001</SerialNumber>
+	    <Description>주변에 다른 사람이 없는지 질문함</Description>
+	    <Actions>
+	        <Action>ACT002</Action> <!-- 없다 -->
+			<Action>ACT003</Action> <!-- 있다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT002</SerialNumber>
+	    <Description>앞으로 30분간 급한 일이 없는지 질문함</Description>
+	    <Actions>
+	        <Action>ACT004</Action> <!-- 없다 -->
+			<Action>ACT005</Action> <!-- 있다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT003</SerialNumber>
+		<Description>폰 배터리가 50% 이상인지 질문함</Description>
+		<Actions>
+			<Action>ACT006</Action> <!-- 이상이다 -->
+			<Action>ACT007</Action> <!-- 이하다 -->
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT004</SerialNumber>
+		<Description>"단위를 착각해서 잘못했을때" 영상을 보여주고 어떤 상황인지 질문함</Description>
+		<Actions>
+			<Action>CUS000</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT005</SerialNumber>
+		<Description>내가 실수한 사람이라면 어떻게 행동할 것 같을지 질문함</Description>
+		<Actions>
+			<Action>CUS001</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT006</SerialNumber>
+		<Description>그렇게 생각한 이유는 무엇인지 질문함</Description>
+		<Actions>
+			<Action>CUS002</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT007</SerialNumber>
+		<Description>"지각했을 때" 영상을 보여주고 어떤 상황인지 질문함</Description>
+		<Actions>
+			<Action>CUS003</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT008</SerialNumber>
+		<Description>이럴 때, 나는 어떻게 행동하고 뭐라고 변명하면 좋을지 질문함</Description>
+		<Actions>
+			<Action>CUS004</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT009</SerialNumber>
+		<Description>그렇게 생각한 이유는 무엇인지 질문함</Description>
+		<Actions>
+			<Action>CUS005</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT010</SerialNumber>
+		<Description>"남이 혼나고 있을때" 영상을 보여주고 어떤 상황인지 질문함</Description>
+		<Actions>
+			<Action>CUS006</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT011</SerialNumber>
+		<Description>이렇게 남이 혼나고 있는 상황이라면, 나는 어떻게 행동하는 것이 좋을지 질문함</Description>
+		<Actions>
+			<Action>CUS007</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT012</SerialNumber>
+		<Description>그렇게 생각한 이유는 무엇인지 질문함</Description>
+		<Actions>
+			<Action>CUS008</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT013</SerialNumber>
+		<Description>"분위기가 좋지 않을 때" 영상을 보고 어떤 분위기인 것 같은지 질문함</Description>
+		<Actions>
+			<Action>CUS009</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT014</SerialNumber>
+		<Description>이런 상황에서 나는 어떻게 행동하면 좋을지 질문함</Description>
+		<Actions>
+			<Action>CUS010</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT015</SerialNumber>
+		<Description>그렇게 생각한 이유는 무엇인지 질문함</Description>
+		<Actions>
+			<Action>CUS011</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT016</SerialNumber>
+		<Description>"회의시간에 하품하기" 영상을 보여준 후 누가 어떤 실수를 한 것 같은지 질문함</Description>
+		<Actions>
+			<Action>CUS012</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT017</SerialNumber>
+		<Description>실수한 사람이 나라면, 어떻게 행동하면 좋을지 질문함</Description>
+		<Actions>
+			<Action>CUS013</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT018</SerialNumber>
+		<Description>그렇게 생각한 이유는 무엇인지 질문함</Description>
+		<Actions>
+			<Action>CUS014</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT019</SerialNumber>
+		<Description>하품하는 것과 같이 하면 안되는 행동들은 또 뭐가 있을지 질문함</Description>
+		<Actions>
+			<Action>CUS015</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT020</SerialNumber>
+		<Description>내가 실수한 상황일 때 나는 어떻게 하면 좋을지 질문함</Description>
+		<Actions>
+			<Action>CUS016</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT021</SerialNumber>
+		<Description>남이 실수한 상황이거나 분위기가 좋지 않을 때 어떻게 하면 좋을지 질문함</Description>
+		<Actions>
+			<Action>CUS017</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT022</SerialNumber>
+		<Description>이번 주차 활동을 통해서 내가 배운 점은 무엇인지 질문함</Description>
+		<Actions>
+			<Action>CUS018</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+		<SerialNumber>OPT023</SerialNumber>
+		<Description>오늘의 활동은 어땠는지 질문함</Description>
+		<Actions>
+			<Action>CUS019</Action>
+		</Actions>
+		<IsMultiple>false</IsMultiple>
+	</Option>
+</Options>

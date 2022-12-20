@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Captions>
+	<Caption>
+	  <SerialNumber>CAP000</SerialNumber>
+	  <Dialogue>지난번 정서행동특성검사에서 네가 응답한 내용을 보고 걱정이 되었단다. 네가 힘든 시간을 보내고 있고, 어떻게 해야 할지 방법을 몰라서 고민하고 있는 게 아닌가 해서... 선생님이 이해한 것이 맞는지 몇 가지 질문을 해도 되겠니?</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP001</NextCaption>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP001</SerialNumber>
+	  <Dialogue>잠은 잘 자고 있니?</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP002</NextCaption>
+	  <Option>OPT000</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP002</SerialNumber>
+	  <Dialogue>잠이 너무 많아지진 않았니?</Dialogue>
+	  <HasCause>true</HasCause>
+	  <Cause>CAU000</Cause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP003</NextCaption>
+	  <Option>OPT001</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP003</SerialNumber>
+	  <Dialogue>밥은 제때 먹고 있니?</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP004</NextCaption>
+	  <Option>OPT002</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP004</SerialNumber>
+	  <Dialogue>밥을 예전보다 적게 먹거나 많이 먹진 않니?</Dialogue>
+	  <HasCause>true</HasCause>
+	  <Cause>CAU001</Cause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP005</NextCaption>
+	  <Option>OPT003</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP005</SerialNumber>
+	  <Dialogue>최근에 즐기는 취미가 있니?</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP006</NextCaption>
+	  <Option>OPT004</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP006</SerialNumber>
+	  <Dialogue>어떤 취미를 즐기고 있니?</Dialogue>
+	  <HasCause>true</HasCause>
+	  <Cause>CAU002</Cause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP007</NextCaption>
+	  <Option>OPT005</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP007</SerialNumber>
+	  <Dialogue>취미를 같이 즐기는 친구가 있니?</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP008</NextCaption>
+	  <Option>OPT006</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP008</SerialNumber>
+	  <Dialogue>평소에 같이 이야기 하는 친구가 있니?</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP009</NextCaption>
+	  <Option>OPT007</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP009</SerialNumber>
+	  <Dialogue>그 친구와 고민도 이야기 하는 편이야?</Dialogue>
+	  <HasCause>true</HasCause>
+	  <Cause>CAU003</Cause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP010</NextCaption>
+	  <Option>OPT008</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP010</SerialNumber>
+	  <Dialogue>죽고 싶다거나, 죽는 게 더 낫겠다고 생각한 적이 있니?</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP011</NextCaption>
+	  <Option>OPT009</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP011</SerialNumber>
+	  <Dialogue>자살을 할까 생각하고 있니?</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP012</NextCaption>
+	  <Option>OPT010</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP012</SerialNumber>
+	  <Dialogue>최근에 어떻게 죽어야겠다고 계획을 세운 적이 있니?</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP013</NextCaption>
+	  <Option>OPT011</Option>
+	  <Displayed>false</Displayed>
+	</Caption> <!-- '예'일 시 때,장소,방법을 주관식으로 얻을 수 있도록 추가 -->
+	<Caption>
+	  <SerialNumber>CAP013</SerialNumber>
+	  <Dialogue>최근에 이 계획을 실행해야겠다는 생각을 한 적이 있니?</Dialogue>
+	  <HasCause>true</HasCause>
+	  <Cause>CAU004</Cause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP014</NextCaption>
+	  <Option>OPT012</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP014</SerialNumber>
+	  <Dialogue>혹시 죽어야겠다는 생각에, 어떤 행동을 해본 적이 있니?</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP015</NextCaption>
+	  <Option>OPT013</Option>
+	  <Displayed>false</Displayed>
+	</Caption> <!-- '예'일 시 때,장소,방법을 주관식으로 얻을 수 있도록 추가 -->
+	<Caption>
+	  <SerialNumber>CAP015</SerialNumber>
+	  <Dialogue>무엇이 너를 그렇게 힘들게 만들고 죽고 싶게 하는지 그 이유를 물어봐도 될까?</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>END</NextCaption>
+	  <Displayed>false</Displayed>
+	</Caption> <!-- 주관식으로 얻을 수 있도록 추가 -->
+</Captions>

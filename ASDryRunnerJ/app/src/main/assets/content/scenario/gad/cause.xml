@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Causes>
+	<Cause>
+	    <SerialNumber>CAU000</SerialNumber>
+	    <Description>평소에 여러 가지로 걱정을 하는 편인가</Description>
+	    <Perceptron>PER000</Perceptron>
+	    <Nexts>
+	        <Next>CAP002</Next> <!-- 얼마나 많이 걱정하는지 질문 -->
+	        <Next>CAP003</Next> <!-- 다음 질문으로 -->
+	    </Nexts>
+	    <Thresholds>
+	        <Threshold>0.5</Threshold>
+	    </Thresholds>
+	</Cause>
+	<Cause>
+	    <SerialNumber>CAU001</SerialNumber>
+	    <Description>걱정이 들 때 멈춰보거나 조절하려 했는가?</Description>
+	    <Perceptron>PER001</Perceptron>
+	    <Nexts>
+	        <Next>CAP005</Next> <!-- 조절하기 위해 얼마나 적극적으로 노력하는가? -->
+	        <Next>CAP006</Next> <!--  -->
+	    </Nexts>
+	    <Thresholds>
+	        <Threshold>0.5</Threshold>
+	    </Thresholds>
+	</Cause>
+	<Cause>
+	    <SerialNumber>CAU002</SerialNumber>
+	    <Description>최근에 초조함, 불안감을 느꼈는가?</Description>
+	    <Perceptron>PER002</Perceptron>
+	    <Nexts>
+	        <Next>CAP007</Next> <!-- 얼마나 자주 느꼈는지 질문 -->
+	        <Next>CAP008</Next> <!-- 다음 질문으로 -->
+	    </Nexts>
+	    <Thresholds>
+	        <Threshold>0.5</Threshold>
+	    </Thresholds>
+	</Cause>
+	<Cause>
+	    <SerialNumber>CAU003</SerialNumber>
+	    <Description>평소에 편하게 있기 힘든가?</Description>
+	    <Perceptron>PER003</Perceptron>
+	    <Nexts>
+	        <Next>CAP009</Next> <!-- 그런 상황을 많이 겪는지 질문 -->
+	        <Next>CAP010</Next> <!--  -->
+	    </Nexts>
+	    <Thresholds>
+	        <Threshold>0.5</Threshold>
+	    </Thresholds>
+	</Cause>
+	<Cause>
+	    <SerialNumber>CAU004</SerialNumber>
+	    <Description>일상을 보내다가 안절부절 못해서 가만히 있기 힘들 때가 있는가?</Description>
+	    <Perceptron>PER004</Perceptron>
+	    <Nexts>
+	        <Next>CAP011</Next> <!-- 그런 상황을 많이 겪는지 질문 -->
+	        <Next>CAP012</Next> <!-- 다음 질문 -->
+	    </Nexts>
+	    <Thresholds>
+	        <Threshold>0.5</Threshold>
+	    </Thresholds>
+	</Cause>
+	<Cause>
+	    <SerialNumber>CAU005</SerialNumber>
+	    <Description>쉽게 짜증이 나는 편인가?</Description>
+	    <Perceptron>PER005</Perceptron>
+	    <Nexts>
+	        <Next>CAP014</Next> <!-- 얼마나 짜증이 쉽게 나는지 질문 -->
+	        <Next>CAP015</Next> <!-- 다음 질문 -->
+	    </Nexts>
+	    <Thresholds>
+	        <Threshold>0.5</Threshold>
+	    </Thresholds>
+	</Cause>
+	<Cause>
+	    <SerialNumber>CAU006</SerialNumber>
+	    <Description>일상을 보내다가 문득 끔찍한 일이 생길 것처럼 두려움을 느끼기도 하는가?</Description>
+	    <Perceptron>PER006</Perceptron>
+	    <Nexts>
+	        <Next>CAP016</Next> <!-- 얼마나 자주 느끼는지 질문 -->
+	        <Next>CAP017</Next> <!-- 다음 질문 -->
+	    </Nexts>
+	    <Thresholds>
+	        <Threshold>0.5</Threshold>
+	    </Thresholds>
+	</Cause>
+</Causes>

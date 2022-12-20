@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomActions>
+	<CustomAction>
+		<SerialNumber>CUS000</SerialNumber>
+		<Description>영상에서 이 주인공의 기분은 어떨 것 같은지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS001</SerialNumber>
+		<Description>상사는 어떤 의도로 주인공에게 말을 하고 있는지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS002</SerialNumber>
+		<Description>상사가 "컴퓨터 활용 능력?" 이라고 말한 것은 어떤 의미인지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS003</SerialNumber>
+		<Description>상사가 "컴퓨터 활용 능력?"이라고 말한 뒤에 나라면 뭐라고 말할지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS004</SerialNumber>
+		<Description>"SNS에 험담글" 영상을 본 후 어떤 상황인 것 같은지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS005</SerialNumber>
+		<Description>'내'가 피해자라고 생각하고, 글 내용이 '나'라는 것을 알았을 때 마음이 어떨지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS006</SerialNumber>
+		<Description>'내'가 SNS를 올린 당사자라고 생각하고, '나'라면 어떻게 할지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS007</SerialNumber>
+		<Description>그렇게 말해야겠다고 생각한 이유는 무엇인지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS008</SerialNumber>
+		<Description>"썰렁한 농담" 영상을 본 후 어떤 상황인 것 같은지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS009</SerialNumber>
+		<Description>내가 이 상황에 있는 직원이라고 생각하면, 어떤 감정일지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS010</SerialNumber>
+		<Description>저 상황에서 나는 어떻게 반응하면 좋을지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS011</SerialNumber>
+		<Description>그렇게 생각한 이유는 무엇인지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS012</SerialNumber>
+		<Description>"심부름 많이 시킬때" 영상을 보여준 후 어떤 상황인 것 같은지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS013</SerialNumber>
+		<Description>내가 이 상황에 있는 직원이라고 생각하면, 어떤 감정일지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS014</SerialNumber>
+		<Description>저 상황에서 나는 어떻게 반응하면 좋을지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS015</SerialNumber>
+		<Description>그렇게 생각한 이유는 무엇인지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS016</SerialNumber>
+		<Description>"나이는 어린데 직급이..." 영상을 본 후 어떤 상황인 것 같은지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS017</SerialNumber>
+		<Description>어떤 것이 말실수였을지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS018</SerialNumber>
+		<Description>저렇게 내가 말실수를 했던 상황이라면, 그 뒤 상황에서 나는 어떻게 반응하면 좋을지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS019</SerialNumber>
+		<Description>그렇게 생각한 이유는 무엇인지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS020</SerialNumber>
+		<Description>상대방의 장점을 칭찬할 때 어떤 것을 칭찬하면 좋을지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS021</SerialNumber>
+		<Description>농담에 리액션을 하기 힘든 상황이라면 나는 어떻게 하면 좋을지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS022</SerialNumber>
+		<Description>회사생활에 관해서 이야기할 때 주의할 점은 무엇일지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS023</SerialNumber>
+		<Description>회사생활 하면서 내가 했던 실수는 무엇인지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS024</SerialNumber>
+		<Description>이번주차 활동을 통해서 내가 배운 점은 무엇인지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS025</SerialNumber>
+		<Description>오늘의 활동은 어땠는지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+</CustomActions>

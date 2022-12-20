@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Options>
+	<Option>
+	    <SerialNumber>OPT000</SerialNumber>
+	    <Description>잠은 잘 자고 있는지 질문함</Description>
+	    <Actions>
+	        <Action>ACT000</Action> <!-- 잘 자고 있다 -->
+	        <Action>ACT001</Action> <!-- 못 자고 있다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT001</SerialNumber>
+	    <Description>잠이 너무 많아졌는지 질문함</Description>
+	    <Actions>
+	        <Action>ACT002</Action> <!-- 너무 많아졌다 -->
+	        <Action>ACT003</Action> <!-- 그렇진 않다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT002</SerialNumber>
+	    <Description>밥은 제때 먹고 있는지 질문함</Description>
+	    <Actions>
+	        <Action>ACT004</Action> <!-- 제때 먹고 있다 -->
+	        <Action>ACT005</Action> <!-- 못 먹고 있다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT003</SerialNumber>
+	    <Description>밥을 예전보다 많이 또는 적게 먹는지 질문함</Description>
+	    <Actions>
+	        <Action>ACT006</Action> <!-- 많이 또는 적게 먹는다 -->
+	        <Action>ACT007</Action> <!-- 그렇진 않다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT004</SerialNumber>
+	    <Description>최근에 즐기는 취미가 있는지 질문함</Description>
+	    <Actions>
+	        <Action>ACT008</Action> <!-- 취미가 있다 -->
+	        <Action>ACT009</Action> <!-- 취미가 없다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT005</SerialNumber>
+	    <Description>어떤 취미인지 질문함</Description>
+	    <Actions>
+	        <Action>CUS000</Action> <!-- 취미 서술 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT006</SerialNumber>
+	    <Description>취미를 같이 즐기는 친구가 있는지 질문함</Description>
+	    <Actions>
+	        <Action>ACT010</Action> <!-- 취미를 같이 즐기는 친구가 있다 -->
+	        <Action>ACT011</Action> <!-- 취미를 같이 즐기는 친구가 없다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT007</SerialNumber>
+	    <Description>평소에 같이 이야기 하는 친구가 있는지 질문함</Description>
+	    <Actions>
+	        <Action>ACT012</Action> <!-- 같이 이야기 하는 친구가 있다 -->
+	        <Action>ACT013</Action> <!-- 같이 이야기 하는 친구가 없다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT008</SerialNumber>
+	    <Description>평소에 이야기 하는 친구에게 고민도 말하는지 질문함</Description>
+	    <Actions>
+	        <Action>ACT014</Action> <!-- 고민도 말한다 -->
+	        <Action>ACT015</Action> <!-- 고민은 말하지 않는다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT009</SerialNumber>
+	    <Description>죽고 싶다고 생각한 적이 있는지 질문함</Description>
+	    <Actions>
+	        <Action>ACT016</Action> <!-- 생각한 적이 있다 -->
+	        <Action>ACT017</Action> <!-- 생각한 적이 없다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT010</SerialNumber>
+	    <Description>자살을 할까 생각하고 있는지 질문함</Description>
+	    <Actions>
+	        <Action>ACT018</Action> <!-- 생각하고 있다 -->
+	        <Action>ACT019</Action> <!-- 생각하고 있지 않다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT011</SerialNumber>
+	    <Description>자살에 대해 구체적인 계획을 세운 적 있는지 질문함</Description>
+	    <Actions>
+	        <Action>ACT020</Action> <!-- 세운 적 있다 -->
+	        <Action>ACT021</Action> <!-- 세운 적 없다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT012</SerialNumber>
+	    <Description>자살 계획을 실행하고 싶은지 질문함</Description>
+	    <Actions>
+	        <Action>ACT022</Action> <!-- 실행하고 싶다 -->
+	        <Action>ACT023</Action> <!-- 실행하고 싶진 않다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT013</SerialNumber>
+	    <Description>죽고싶다는 생각에 어떤 행동을 해본 적 있는지 질문함</Description>
+	    <Actions>
+	        <Action>ACT024</Action> <!-- 해본 적 있다 -->
+	        <Action>ACT025</Action> <!-- 해본 적 없다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+</Options>

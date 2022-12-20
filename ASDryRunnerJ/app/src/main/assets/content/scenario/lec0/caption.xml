@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Captions>
+	<Caption>
+	  <SerialNumber>CAP000</SerialNumber>
+	  <Dialogue>안녕 여러분! 만나서 반가워요!</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP001</NextCaption>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP001</SerialNumber>
+	  <Dialogue>우리 본격적인 수업을 시작하기 전에, 앱을 사용하는 과정을 익혀볼까요?</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP002</NextCaption>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP002</SerialNumber>
+	  <Dialogue>앱을 사용할 수 있는 환경을 갖추고, 간단한 질문을 하게 될거에요.</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP003</NextCaption>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP003</SerialNumber>
+	  <Dialogue>그럼 앱을 사용하기 위한 환경인지 확인할게요. 내가 지금 다음과 같은 상황인지 확인해보세요!</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP004</NextCaption>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP004</SerialNumber>
+	  <Dialogue>주변이 조용한가요?</Dialogue>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP005</NextCaption>
+	  <Option>OPT000</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP005</SerialNumber>
+	  <Dialogue>카메라에 나의 모습만 비춰져야 합니다. 주변에 다른 사람이 없나요?</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP006</NextCaption>
+	  <Option>OPT001</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP006</SerialNumber>
+	  <Dialogue>앞으로 30분동안은 급한 일이 없나요?</Dialogue>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP007</NextCaption>
+	  <Option>OPT002</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP007</SerialNumber>
+	  <Dialogue>핸드폰 배터리는 50% 이상인가요?</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP008</NextCaption>
+	  <Option>OPT003</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP008</SerialNumber>
+	  <Dialogue>앞에서 이야기한 환경을 모두 갖추고 다시 만나요!</Dialogue>
+	  <HasCause>true</HasCause>
+	  <Cause>CAU000</Cause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP003</NextCaption>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP009</SerialNumber>
+	  <Dialogue>좋아요! 그럼 한 가지 질문에 대답해주세요~</Dialogue>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP010</NextCaption>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP010</SerialNumber>
+	  <Dialogue>본인의 이름을 말해볼까요?</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP011</NextCaption>
+	  <Option>OPT004</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP011</SerialNumber>
+	  <Dialogue>고마워요! 그럼 실제 차시에서 만나요~</Dialogue>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>END</NextCaption>
+	  <Displayed>false</Displayed>
+	</Caption>
+</Captions>

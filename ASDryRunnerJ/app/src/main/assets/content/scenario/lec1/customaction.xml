@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomActions>
+	<CustomAction>
+		<SerialNumber>CUS000</SerialNumber>
+		<Description>동료에게 어떤 주제로 말을 걸지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS001</SerialNumber>
+		<Description>왜 그렇게 말을 걸지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS002</SerialNumber>
+		<Description>동료에게 그렇게 말을 걸면 동료가 어떤 생각을 할지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS003</SerialNumber>
+		<Description>그렇게 말을 해야겠다고 생각한 이유를 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS004</SerialNumber>
+		<Description>어색한 동료와 마주쳤을때의 감정을 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS005</SerialNumber>
+		<Description>어색한 동료와 있을 때 동료에게 어떻게 말하면 좋을지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS006</SerialNumber>
+		<Description>왜 그렇게 말하려고 하는지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS007</SerialNumber>
+		<Description>이렇게 말했을 때 상사는 어떤 반응을 보일지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS008</SerialNumber>
+		<Description>내가 상사와 같이 있는 직원이라고 생각하면, 어떤 감정일지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS009</SerialNumber>
+		<Description>상사와 어색한 상황에 같이 있는 여자일 때 어떤 감정일지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS010</SerialNumber>
+		<Description>왜 그렇게 말해야겠다고 생각했는지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS011</SerialNumber>
+		<Description>내가 이렇게 말했을 때 상사는 어떤 반응을 보일지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS012</SerialNumber>
+		<Description>대화를 시작하고 싶을때 어떤 것들을 활용하면 좋을지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS013</SerialNumber>
+		<Description>동료와 대화를 시작하고 싶을 때와 상사와 대화를 시작하고 싶을 때 어떤 차이가 있을지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS014</SerialNumber>
+		<Description>카카오톡에서 상대방이 "그래~ 다음에 보자!", "나중에 또 이야기하자", "수고했어요" 등의 의미는 무엇일지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS015</SerialNumber>
+		<Description>내가 생각하는 카카오톡에서의 예의는 무엇인지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS016</SerialNumber>
+		<Description>이번 주차 활동을 통해서 내가 배운 점은 무엇인지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS017</SerialNumber>
+		<Description>오늘의 활동에 대한 피드백을 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+</CustomActions>

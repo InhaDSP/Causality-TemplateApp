@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scenarios>
+	<Scenario>
+	  <SerialNumber>SNR000</SerialNumber>
+	  <Description>자살 관련 면담 시나리오</Description>
+	  <Scenes>
+	    <Scene>SNE000</Scene>
+	  </Scenes>
+	  <Displayed>false</Displayed>
+	</Scenario>
+</Scenarios>

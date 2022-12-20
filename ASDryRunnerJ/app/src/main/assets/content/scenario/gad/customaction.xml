@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomActions>
+    <CustomAction>
+	    <SerialNumber>CUS000</SerialNumber>
+	    <Description>평소에 많이 하는 걱정</Description>
+	    <ActorName>나</ActorName>
+	</CustomAction>
+    <CustomAction>
+	    <SerialNumber>CUS001</SerialNumber>
+	    <Description>일상 중에 안절부절 못해서 가만 있기 힘들 때 대처하는 방법</Description>
+	    <ActorName>나</ActorName>
+	</CustomAction>
+</CustomActions>

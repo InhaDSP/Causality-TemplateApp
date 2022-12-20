@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Actions>
+	<Action>
+	    <SerialNumber>ACT000</SerialNumber>
+	    <Description>네</Description>
+	    <DefaultValue>잠을 잘 자고 있다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT001</SerialNumber>
+	    <Description>아니요</Description>
+	    <DefaultValue>잠을 못 자고 있다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT002</SerialNumber>
+	    <Description>네</Description>
+	    <DefaultValue>잠이 너무 많아졌다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT003</SerialNumber>
+	    <Description>아니요</Description>
+	    <DefaultValue>잠이 많아지진 않았다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT004</SerialNumber>
+	    <Description>네</Description>
+	    <DefaultValue>밥을 제때 먹고 있다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT005</SerialNumber>
+	    <Description>아니요</Description>
+	    <DefaultValue>밥을 제때 못 먹고 있다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT006</SerialNumber>
+	    <Description>네</Description>
+	    <DefaultValue>밥을 예전보다 많이 또는 적게 먹는다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT007</SerialNumber>
+	    <Description>아니요</Description>
+	    <DefaultValue>밥은 평소만큼 먹는다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT008</SerialNumber>
+	    <Description>네</Description>
+	    <DefaultValue>취미가 있다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT009</SerialNumber>
+	    <Description>아니요</Description>
+	    <DefaultValue>취미가 없다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT010</SerialNumber>
+	    <Description>네</Description>
+	    <DefaultValue>취미를 같이 즐기는 친구가 있다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT011</SerialNumber>
+	    <Description>아니요</Description>
+	    <DefaultValue>취미를 같이 즐기는 친구가 없다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT012</SerialNumber>
+	    <Description>네</Description>
+	    <DefaultValue>같이 이야기 하는 친구가 있다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT013</SerialNumber>
+	    <Description>아니요</Description>
+	    <DefaultValue>같이 이야기 하는 친구가 없다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT014</SerialNumber>
+	    <Description>네</Description>
+	    <DefaultValue>고민도 말해준다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT015</SerialNumber>
+	    <Description>아니요</Description>
+	    <DefaultValue>고민은 말하지 않는다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT016</SerialNumber>
+	    <Description>네</Description>
+	    <DefaultValue>죽고 싶다 생각한 적이 있다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT017</SerialNumber>
+	    <Description>아니요</Description>
+	    <DefaultValue>죽고 싶다 생각한 적이 없다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT018</SerialNumber>
+	    <Description>네</Description>
+	    <DefaultValue>자살을 할까 생각하고 있다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT019</SerialNumber>
+	    <Description>아니요</Description>
+	    <DefaultValue>자살을 할까 생각하고 있지 않다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT020</SerialNumber>
+	    <Description>네</Description>
+	    <DefaultValue>자살 계획을 세운 적 있다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT021</SerialNumber>
+	    <Description>아니요</Description>
+	    <DefaultValue>자살 계획을 세운 적 없다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT022</SerialNumber>
+	    <Description>네</Description>
+	    <DefaultValue>자살 계획을 실행하고 싶다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT023</SerialNumber>
+	    <Description>아니요</Description>
+	    <DefaultValue>자살 계획을 실행하고 싶지 않다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT024</SerialNumber>
+	    <Description>네</Description>
+	    <DefaultValue>자살하기 위해 구체적인 행동을 해본 적 있다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+	<Action>
+	    <SerialNumber>ACT025</SerialNumber>
+	    <Description>아니요</Description>
+	    <DefaultValue>자살하기 위해 구체적인 행동을 해본 적 없다</DefaultValue>
+	    <ActorName>나</ActorName>
+	</Action>
+</Actions>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Captions>
+	<Caption>
+	  <SerialNumber>CAP000</SerialNumber>
+	  <Dialogue>안녕하세요. 지금부터 정서에 관련된 몇 가지 질문을 드릴텐데요, 솔직하게 답변 부탁드려요.</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP001</NextCaption>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP001</SerialNumber>
+	  <Dialogue>평소에 여러 가지 것들에 대해 걱정을 많이 하는 편이라고 생각하세요?</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP002</NextCaption>
+	  <Option>OPT000</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP002</SerialNumber>
+	  <Dialogue>걱정은 얼마나 많이 하시나요?</Dialogue>
+	  <HasCause>true</HasCause>
+	  <Cause>CAU000</Cause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP003</NextCaption>
+	  <Option>OPT001</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP003</SerialNumber>
+	  <Dialogue>만약 걱정을 한다면 주로 어떤 쪽으로 하는 편인가요?</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP004</NextCaption>
+	  <Option>OPT002</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP004</SerialNumber>
+	  <Dialogue>그런 걱정이 들 때 멈춰보거나 조절하려고 해봤나요?</Dialogue>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP005</NextCaption>
+	  <Option>OPT003</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP005</SerialNumber>
+	  <Dialogue>만약 걱정이 든다면 그걸 조절하기 위해 얼마나 적극적으로 노력하시나요?</Dialogue>
+	  <HasCause>true</HasCause>
+	  <Cause>CAU001</Cause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP006</NextCaption>
+	  <Option>OPT004</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP006</SerialNumber>
+	  <Dialogue>혹시 최근에 초조하거나 불안하거나 조마조마하다고 느꼈나요?</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP007</NextCaption>
+	  <Option>OPT005</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP007</SerialNumber>
+	  <Dialogue>얼마나 자주 그런 느낌이 드셨나요?</Dialogue>
+	  <HasCause>true</HasCause>
+	  <Cause>CAU002</Cause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP008</NextCaption>
+	  <Option>OPT006</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP008</SerialNumber>
+	  <Dialogue>평소에 편하게 있기 힘들기도 하나요?</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP009</NextCaption>
+	  <Option>OPT007</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP009</SerialNumber>
+	  <Dialogue>그런 상황이 많이 발생하나요?</Dialogue>
+	  <HasCause>true</HasCause>
+	  <Cause>CAU003</Cause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP010</NextCaption>
+	  <Option>OPT008</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP010</SerialNumber>
+	  <Dialogue>일상을 보내다가 안절부절 못해서 가만히 있기 힘들 때가 있나요?</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP011</NextCaption>
+	  <Option>OPT009</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP011</SerialNumber>
+	  <Dialogue>그런 상황이 많이 발생하나요?</Dialogue>
+	  <HasCause>true</HasCause>
+	  <Cause>CAU004</Cause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP012</NextCaption>
+	  <Option>OPT010</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP012</SerialNumber>
+	  <Dialogue>만약 그렇게 가만히 있기 힘든 상황들이 생기면 어떻게 대처하시나요?</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP013</NextCaption>
+	  <Option>OPT011</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP013</SerialNumber>
+	  <Dialogue>쉽게 짜증이 나는 편이세요?</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP014</NextCaption>
+	  <Option>OPT012</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP014</SerialNumber>
+	  <Dialogue>짜증이 얼마나 쉽게 나는지 1~10으로 표현한다면?(적을수록 짜증이 잘 안남)</Dialogue>
+	  <HasCause>true</HasCause>
+	  <Cause>CAU005</Cause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP015</NextCaption>
+	  <Option>OPT013</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP015</SerialNumber>
+	  <Dialogue>일상을 보내다가 문득 끔찍한 일이 생길 것처럼 두려움을 느끼기도 하나요?</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP016</NextCaption>
+	  <Option>OPT014</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP016</SerialNumber>
+	  <Dialogue>얼마나 자주 그런 느낌이 드셨나요?</Dialogue>
+	  <HasCause>true</HasCause>
+	  <Cause>CAU006</Cause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>CAP017</NextCaption>
+	  <Option>OPT015</Option>
+	  <Displayed>false</Displayed>
+	</Caption>
+	<Caption>
+	  <SerialNumber>CAP017</SerialNumber>
+	  <Dialogue>시간 내주셔서 감사합니다. 좋은 하루 되세요.</Dialogue>
+	  <HasCause>false</HasCause>
+	  <SpeakerName>선생님</SpeakerName>
+	  <NextCaption>END</NextCaption>
+	  <Displayed>false</Displayed>
+	</Caption>
+</Captions>

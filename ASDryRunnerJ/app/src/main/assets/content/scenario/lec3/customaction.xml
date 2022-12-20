@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomActions>
+	<CustomAction>
+		<SerialNumber>CUS000</SerialNumber>
+		<Description>"도움을 요청해야 할 때" 영상을 보고 어떤 상황인 것 같은지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS001</SerialNumber>
+		<Description>도움을 누구에게, 어떻게 요청하면 좋을지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS002</SerialNumber>
+		<Description>그렇게 생각한 이유는 무엇인지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS003</SerialNumber>
+		<Description>"급한 일인데 답장" 영상을 보고 어떤 이유로 오피스 빌런이라 하는지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS004</SerialNumber>
+		<Description>내가 급하게 해야할 일이 있는데 상대방이 채팅을 읽지 않을 때 어떻게 해야 할지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS005</SerialNumber>
+		<Description>그렇게 생각한 이유는 무엇인지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS006</SerialNumber>
+		<Description>"카톡방 착각해서" 영상을 보고 어떤 상황인 것 같은지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS007</SerialNumber>
+		<Description>내가 이런 상황이라면, 나는 어떻게 행동하고 말하면 좋을지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS008</SerialNumber>
+		<Description>그렇게 생각한 이유는 무엇인지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS009</SerialNumber>
+		<Description>도움을 청해야할 때, 어떻게 말하면 좋을지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS010</SerialNumber>
+		<Description>도움을 줄 때 무조건 도와주거나, 거절해야할지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS011</SerialNumber>
+		<Description>글로 의사소통할 때의 에티켓은 무엇이 있을지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS012</SerialNumber>
+		<Description>이번 주차 활동을 통해서 내가 배운 점은 무엇인지 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+	<CustomAction>
+		<SerialNumber>CUS013</SerialNumber>
+		<Description>오늘 활동에 대한 피드백을 서술</Description>
+		<ActorName>나</ActorName>
+	</CustomAction>
+</CustomActions>

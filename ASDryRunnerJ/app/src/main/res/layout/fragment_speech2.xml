@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Speech2Fragment">
+
+<!--    <EditText-->
+<!--        android:id="@+id/editTextTextPersonName"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:ems="10"-->
+<!--        android:inputType="textPersonName"-->
+<!--        android:text="Name" />-->
+    <EditText
+        android:id="@+id/et_sp2_asrText"
+        android:inputType="textMultiLine"
+        android:maxLines="2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/button_sp2_confirm"
+        app:layout_constraintStart_toStartOf="@+id/button_sp2_decline"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="예시 음성인식 문장입니다." />
+
+    <Space
+        android:id="@+id/space9"
+        android:layout_width="100dp"
+        android:layout_height="1dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/et_sp2_asrText" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="내가 말한 내용과 같나요?\n 위 내용을 눌러 편집해주세요."
+        android:textAlignment="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/space9" />
+
+    <Space
+        android:id="@+id/space"
+        android:layout_width="24dp"
+        android:layout_height="40dp"
+        app:layout_constraintBottom_toTopOf="@+id/space3"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/button_sp2_decline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="아니요, 다시 할게요!"
+        android:visibility="invisible"
+        android:enabled="false"
+        app:layout_constraintBottom_toTopOf="@+id/space3"
+        app:layout_constraintStart_toEndOf="@+id/space" />
+
+    <Space
+        android:id="@+id/space7"
+        android:layout_width="24dp"
+        android:layout_height="40dp"
+        app:layout_constraintBottom_toTopOf="@+id/space3"
+        app:layout_constraintEnd_toStartOf="@+id/button_sp2_confirm"
+        app:layout_constraintStart_toEndOf="@+id/button_sp2_decline" />
+
+    <Button
+        android:id="@+id/button_sp2_confirm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="네, 맞아요!"
+        app:layout_constraintBottom_toTopOf="@+id/space3"
+        app:layout_constraintEnd_toStartOf="@+id/space8" />
+
+    <Space
+        android:id="@+id/space8"
+        android:layout_width="24dp"
+        android:layout_height="40dp"
+        app:layout_constraintBottom_toTopOf="@+id/space3"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <Space
+        android:id="@+id/space3"
+        android:layout_width="20dp"
+        android:layout_height="1dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

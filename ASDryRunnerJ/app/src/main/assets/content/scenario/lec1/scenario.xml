@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scenarios>
+	<Scenario>
+	  <SerialNumber>SNR001</SerialNumber>
+	  <Description>1차시</Description>
+	  <Scenes>
+	    <Scene>SNE000</Scene>
+		<Scene>SNE001</Scene>
+		<Scene>SNE002</Scene>
+		<Scene>SNE003</Scene>
+		<Scene>SNE004</Scene>
+	  </Scenes>
+	  <Displayed>false</Displayed>
+	</Scenario>
+</Scenarios>

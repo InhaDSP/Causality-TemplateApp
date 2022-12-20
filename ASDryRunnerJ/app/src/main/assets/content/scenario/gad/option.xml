@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Options>
+	<Option>
+	    <SerialNumber>OPT000</SerialNumber>
+	    <Description>여러 가지로 걱정을 많이 하는가 질문</Description>
+	    <Actions>
+	        <Action>ACT000</Action> <!-- 걱정하고 있다 -->
+	        <Action>ACT001</Action> <!-- 걱정하지 않는다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT001</SerialNumber>
+	    <Description>걱정을 얼마나 많이 하는가 질문</Description>
+	    <Actions>
+	        <Action>ACT002</Action> <!-- 많이 걱정함 -->
+	        <Action>ACT003</Action> <!-- 적당히 걱정함 -->
+			<Action>ACT004</Action> <!-- 약간 걱정함 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT002</SerialNumber>
+	    <Description>평소에 하는 걱정</Description>
+	    <Actions>
+	        <Action>CUS000</Action> <!-- 임의 대답 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT003</SerialNumber>
+	    <Description>걱정이 들 때 멈추거나 조절해보려 하였다</Description>
+	    <Actions>
+	        <Action>ACT005</Action> <!-- 조절을 시도했다 -->
+	        <Action>ACT006</Action> <!-- 조절해보지 않았다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT004</SerialNumber>
+	    <Description></Description>
+	    <Actions>
+	        <Action>ACT007</Action> <!-- 항상 노력한다 -->
+	        <Action>ACT008</Action> <!-- 적당히 노력한다 -->
+			<Action>ACT009</Action> <!-- 가끔 노력한다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT005</SerialNumber>
+	    <Description>최근에 불안감, 초조함을 느꼈는지 질문함</Description>
+	   <Actions>
+	        <Action>ACT010</Action> <!-- 초조함을 느꼈다 -->
+	        <Action>ACT011</Action> <!-- 초조함을 느끼지 않았다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT006</SerialNumber>
+	    <Description>불안감을 얼마나 자주 느꼈는지 질문함</Description>
+	    <Actions>
+	        <Action>ACT012</Action> <!-- 매일, 항상 -->
+	        <Action>ACT013</Action> <!-- 꽤 자주 -->
+			<Action>ACT014</Action> <!-- 가끔 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT007</SerialNumber>
+	    <Description>평소에 편하게 있기 힘들기도 한지 질문함</Description>
+	    <Actions>
+	        <Action>ACT015</Action> <!-- 평소에 편하게 있기 힘들다 -->
+	        <Action>ACT016</Action> <!-- 평소에 편하게 있을 수 있다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT008</SerialNumber>
+	    <Description>평소에 편하게 있기 힘든 상황이 얼마나 잦은지 질문함</Description>
+	    <Actions>
+	        <Action>ACT017</Action> <!-- 많이 -->
+	        <Action>ACT018</Action> <!-- 보통 -->
+			<Action>ACT019</Action> <!-- 가끔 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT009</SerialNumber>
+	    <Description>일상을 보내다가 안절부절 못해서 가만히 있기 힘들 때가 있는지 질문함</Description>
+	    <Actions>
+	        <Action>ACT020</Action> <!-- 그런 때가 있다 -->
+	        <Action>ACT021</Action> <!-- 그런 때가 없다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT010</SerialNumber>
+	    <Description>일상 중에 불안감으로 가만있기 힘든 때가 얼마나 자주 있는지 질문함</Description>
+	    <Actions>
+	        <Action>ACT022</Action> <!-- 많이 -->
+	        <Action>ACT023</Action> <!-- 보통 -->
+			<Action>ACT024</Action> <!-- 가끔 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT011</SerialNumber>
+	    <Description>자살에 대해 구체적인 계획을 세운 적 있는지 질문함</Description>
+	    <Actions>
+	        <Action>CUS001</Action> <!-- 임의 대답 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT012</SerialNumber>
+	    <Description>쉽게 짜증이 나는 편인지 질문함</Description>
+	    <Actions>
+	        <Action>ACT025</Action> <!-- 그런 편이다 -->
+	        <Action>ACT026</Action> <!-- 아닌 편이다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT013</SerialNumber>
+	    <Description>짜증이 얼마나 쉽게 나는지 질문함</Description>
+	    <Actions>
+	        <Action>ACT027</Action> <!-- 8~10 -->
+	        <Action>ACT028</Action> <!-- 4~7 -->
+			<Action>ACT029</Action> <!-- 1~3 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT014</SerialNumber>
+	    <Description>일상 중에 문득 끔찍한 일이 생길 것처럼 두려움을 느끼기도 하는지 질문함</Description>
+	    <Actions>
+	        <Action>ACT030</Action> <!-- 그런 편이다 -->
+	        <Action>ACT031</Action> <!-- 아닌 편이다 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+	<Option>
+	    <SerialNumber>OPT015</SerialNumber>
+	    <Description>일상 중에 문득 두려움을 느끼는 일이 얼마나 잦은지 질문함</Description>
+	    <Actions>
+	        <Action>ACT032</Action> <!-- 매일, 항상 -->
+	        <Action>ACT033</Action> <!-- 자주 -->
+			<Action>ACT034</Action> <!-- 가끔 -->
+	    </Actions>
+	    <IsMultiple>false</IsMultiple>
+	</Option>
+</Options>

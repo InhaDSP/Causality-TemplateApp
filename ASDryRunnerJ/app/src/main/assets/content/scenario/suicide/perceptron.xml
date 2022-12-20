@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Perceptrons>
+	<Perceptron>
+	    <SerialNumber>PER000</SerialNumber>
+	    <Description>잠을 잘 자고 있는지</Description>
+	    <Inputs>
+	        <Input>ACT001</Input> <!-- 잠을 잘 자고있음 -->
+	        <Input>ACT000</Input> <!-- 잠을 못자고 있음 -->
+	    </Inputs>
+	    <Weights>
+	        <Weight>0.6</Weight>
+	        <Weight>0.0</Weight>
+	    </Weights>
+	    <Bias>0</Bias>
+	</Perceptron>
+	<Perceptron>
+	    <SerialNumber>PER001</SerialNumber>
+	    <Description>밥을 제때 먹는지</Description>
+	    <Inputs>
+	        <Input>ACT005</Input> <!-- 제때 못먹고 있음 -->
+	        <Input>ACT004</Input> <!-- 제때 먹고 있음 -->
+	    </Inputs>
+	    <Weights>
+	        <Weight>0.6</Weight>
+	        <Weight>0.0</Weight>
+	    </Weights>
+	    <Bias>0</Bias>
+	</Perceptron>
+	<Perceptron>
+	    <SerialNumber>PER002</SerialNumber>
+	    <Description>즐기는 취미가 있는지</Description>
+	    <Inputs>
+	        <Input>ACT009</Input> <!-- 취미가 없음 -->
+	        <Input>ACT008</Input> <!-- 취미가 있음 -->
+	    </Inputs>
+	    <Weights>
+	        <Weight>0.6</Weight>
+	        <Weight>0.0</Weight>
+	    </Weights>
+	    <Bias>0</Bias>
+	</Perceptron>
+	<Perceptron>
+	    <SerialNumber>PER003</SerialNumber>
+	    <Description>평소에 같이 이야기 하는 친구가 있는지</Description>
+	    <Inputs>
+	        <Input>ACT013</Input> <!-- 친구가 없음 -->
+	        <Input>ACT012</Input> <!-- 친구가 있음 -->
+	    </Inputs>
+	    <Weights>
+	        <Weight>0.6</Weight>
+	        <Weight>0.0</Weight>
+	    </Weights>
+	    <Bias>0</Bias>
+	</Perceptron>
+	<Perceptron>
+	    <SerialNumber>PER004</SerialNumber>
+	    <Description>자살 계획 수립 여부</Description>
+	    <Inputs>
+	        <Input>ACT005</Input> <!-- 수립한 적 없음 -->
+	        <Input>ACT004</Input> <!-- 수립한 적 있음 -->
+	    </Inputs>
+	    <Weights>
+	        <Weight>0.6</Weight>
+	        <Weight>0.0</Weight>
+	    </Weights>
+	    <Bias>0</Bias>
+	</Perceptron>
+</Perceptrons>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Perceptrons>
+	<Perceptron>
+	    <SerialNumber>PER000</SerialNumber>
+	    <Description>평소에 여러 가지로 걱정하는지</Description>
+	    <Inputs>
+	        <Input>ACT001</Input> <!-- 걱정하지 않음 -->
+	        <Input>ACT000</Input> <!-- 걱정하고 있음 -->
+	    </Inputs>
+	    <Weights>
+	        <Weight>0.6</Weight>
+	        <Weight>0.0</Weight>
+	    </Weights>
+	    <Bias>0</Bias>
+	</Perceptron>
+	<Perceptron>
+	    <SerialNumber>PER001</SerialNumber>
+	    <Description>걱정이 들 때 멈춰보거나 조절하려 했는가?</Description>
+	    <Inputs>
+	        <Input>ACT006</Input> <!-- 그러지 않았음 -->
+	        <Input>ACT005</Input> <!-- 조절하려 했음 -->
+	    </Inputs>
+	    <Weights>
+	        <Weight>0.6</Weight>
+	        <Weight>0.0</Weight>
+	    </Weights>
+	    <Bias>0</Bias>
+	</Perceptron>
+	<Perceptron>
+	    <SerialNumber>PER002</SerialNumber>
+	    <Description>최근에 초조함, 불안감을 느꼈는지</Description>
+	    <Inputs>
+	        <Input>ACT011</Input> <!-- 느끼지 않았음 -->
+	        <Input>ACT010</Input> <!-- 초조함을 느꼈음 -->
+	    </Inputs>
+	    <Weights>
+	        <Weight>0.6</Weight>
+	        <Weight>0.0</Weight>
+	    </Weights>
+	    <Bias>0</Bias>
+	</Perceptron>
+	<Perceptron>
+	    <SerialNumber>PER003</SerialNumber>
+	    <Description>평소에 편하게 있기 힘든지</Description>
+	    <Inputs>
+	        <Input>ACT016</Input> <!-- 편하게 있을 수 있음 -->
+	        <Input>ACT015</Input> <!-- 편하게 있기 힘듦 -->
+	    </Inputs>
+	    <Weights>
+	        <Weight>0.6</Weight>
+	        <Weight>0.0</Weight>
+	    </Weights>
+	    <Bias>0</Bias>
+	</Perceptron>
+	<Perceptron>
+	    <SerialNumber>PER004</SerialNumber>
+	    <Description>일상을 보내다가 안절부절 못하여 가만히 있기 힘든 때가 있는지</Description>
+	    <Inputs>
+	        <Input>ACT021</Input> <!-- 그럴 때가 없음 -->
+	        <Input>ACT020</Input> <!-- 그럴 때가 있음 -->
+	    </Inputs>
+	    <Weights>
+	        <Weight>0.6</Weight>
+	        <Weight>0.0</Weight>
+	    </Weights>
+	    <Bias>0</Bias>
+	</Perceptron>
+	<Perceptron>
+	    <SerialNumber>PER005</SerialNumber>
+	    <Description>쉽게 짜증이 나는 편인지</Description>
+	    <Inputs>
+	        <Input>ACT026</Input> <!-- 그렇지 않음 -->
+	        <Input>ACT025</Input> <!-- 쉽게 짜증이 남 -->
+	    </Inputs>
+	    <Weights>
+	        <Weight>0.6</Weight>
+	        <Weight>0.0</Weight>
+	    </Weights>
+	    <Bias>0</Bias>
+	</Perceptron>
+	<Perceptron>
+	    <SerialNumber>PER006</SerialNumber>
+	    <Description>일상을 보내다가 문득 끔찍한 일이 생길 것처럼 두려움을 느끼기도 하는지</Description>
+	    <Inputs>
+	        <Input>ACT031</Input> <!-- 그렇지 않음 -->
+	        <Input>ACT030</Input> <!-- 쉽게 짜증이 남 -->
+	    </Inputs>
+	    <Weights>
+	        <Weight>0.6</Weight>
+	        <Weight>0.0</Weight>
+	    </Weights>
+	    <Bias>0</Bias>
+	</Perceptron>
+</Perceptrons>
